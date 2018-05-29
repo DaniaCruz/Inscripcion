@@ -13,6 +13,7 @@ using System.Data;
 
 public interface ADAOSocioEconomico <T>
 {
+    //jajajajaj
 	void Insert(T obj);
     void Update(T obj);
    
